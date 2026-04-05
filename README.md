@@ -8,7 +8,7 @@ $ enrich 185.220.101.34
 │ Threat Intel Report: 185.220.101.34             │
 │ Type: Ip                                        │
 │                                                 │
-│ Risk Score: 8.4 / 10 — CRITICAL                │
+│ Risk Score: 8.4 / 10 — CRITICAL                 │
 │                                                 │
 │ Virustotal:  malicious (12/87 engines)          │
 │ Abuseipdb:   reported 247 times (score: 95)     │
@@ -17,7 +17,7 @@ $ enrich 185.220.101.34
 │                                                 │
 │ Links:                                          │
 │   • Virustotal: https://virustotal.com/gui/...  │
-│   • Abuseipdb:  https://abuseipdb.com/check/…  │
+│   • Abuseipdb:  https://abuseipdb.com/check/…   │
 ╰─────────────────────────────────────────────────╯
 ```
 
@@ -161,7 +161,7 @@ enrich 185.220.101.34 --verbose
 │ Threat Intel Report: 44d88612fea8a8f36de82e1278abb02f│
 │ Type: Hash Md5                                       │
 │                                                      │
-│ Risk Score: 6.0 / 10 — HIGH                         │
+│ Risk Score: 6.0 / 10 — HIGH                          │
 │                                                      │
 │ Virustotal:  malicious (43/70 engines)               │
 │                                                      │
