@@ -37,9 +37,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/idrak/threat-intel-enrich"
-Repository = "https://github.com/idrak/threat-intel-enrich"
-"Bug Tracker" = "https://github.com/idrak/threat-intel-enrich/issues"
+Homepage = "https://github.com/idrak888/threat-intel-enrich"
+Repository = "https://github.com/idrak888/threat-intel-enrich"
+"Bug Tracker" = "https://github.com/idrak888/threat-intel-enrich/issues"
 
 [project.optional-dependencies]
 dev = [
